@@ -54,7 +54,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Blog.SharedRazorClassLibrary\Blog.SharedRazorClassLibrary.csproj" />
+      <ProjectReference Include="..\Blog.SharedRazorClassLib\Blog.SharedRazorClassLib.csproj" />
     </ItemGroup>
 
 </Project>
